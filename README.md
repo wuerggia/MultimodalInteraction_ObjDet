@@ -10,7 +10,7 @@ In this notebook the focus is to explore the basic with pre-trained object detec
 
 
 ## 2. VLM_Basics.ipynb
-In this notebook the focus is on learning how to use programamtically 2 VLMs, i.e. GPT4 and Gemini, specifically with the purpose of exploring their abilities to extract structured outputs.
+In this notebook the focus is on learning how to use programamtically 2 VLMs, i.e. GPT and Gemini, specifically with the purpose of exploring their abilities to extract structured outputs in relation with images.
 
 ## 3. Identify_Obj_Positions_startingpoint.ipynb
 This tutorial contains some utils to help you plot bounding boxes on images and parse outcome of VLM. You are asked to use the material from previous 2 notebooks to perform and compare object detection with different methods: Yolo, GPT and Gemini. Compare the outcome of the 3 methods. 
